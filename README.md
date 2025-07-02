@@ -1,6 +1,6 @@
 # Smartphone Price Prediction
 
-This repository contains the codes for a academic project I did at Purdue from Nov to Dec'2021.
+This repository contains the codes for a academic project I did at Purdue from Nov to Dec'2021. Learn more about the project [here](https://asadhusain97.github.io/projects/smartphonepricer.html)
 
 ## App Link
 
